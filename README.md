@@ -8,3 +8,5 @@ FILE CONTENTS:
 database.java contains a class and the main method to access the immunotherapy portal.
 gene.java contains a class for the gene objects used in database.java.
 tumorclassfication.zip contains the machine learning model for identifying tumors from medical imaging. 
+
+Link to the demo: https://drive.google.com/file/d/1k9ZX25FpIvWa4lrcr0jGZzJf-U1UqR5n/view?usp=sharing
